@@ -136,3 +136,7 @@ const init = function () {
 };
 
 init();
+
+const newfeature = function () {
+  console.log('new feature');
+};
