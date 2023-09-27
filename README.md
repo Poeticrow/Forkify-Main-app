@@ -1,2 +1,3 @@
-# Forkify-Main-app
-A little recipe application
+# Forkify app
+
+A little recipe application with custom recipe uploads
